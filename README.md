@@ -6,6 +6,8 @@ A React application with searchable/filtering feature implemented to display  da
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Screenshot](https://github.com/Adedeji-Taiwo/Country-Data/blob/main/Screenshot%202022-01-31%20113920.png)
+
+![Screenshot](https://github.com/Adedeji-Taiwo/Country-Data/blob/main/Screenshot%202022-02-24%20141730.png)
   
 - Live link: https://countrystat-app.netlify.app/
 

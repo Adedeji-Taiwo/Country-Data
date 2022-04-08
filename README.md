@@ -1,7 +1,7 @@
 # Country-Stats
 
 ## Overview
-A React application with searchable/filtering feature implemented to display  data obtained from REST COUNTRIES API.
+A React application with searchable/filtering feature implemented to display countries data obtained from REST COUNTRIES API as well as weather data for countries' capital from OPEN WEATHER MAP API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -23,6 +23,10 @@ You will find below the different third party libraries used in the project.
 | Axios | `axios`  |  Allows for communication with the APIs React project |
 | React-Loader-Spinner | `react-loader-spinner`  | Provides simple React.js spinner component which can be implemented for async wait operation before data load to the view |
 | React-Node-Sass | `sass`  | A CSS pre-processor that executes files on the server and sends CSS to the browser. |
+
+## Third Party APIs utilized.
+-  [REST COUNTRIES API](https://https://restcountries.com/).
+-  [OPEN WEATHER MAP API](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
